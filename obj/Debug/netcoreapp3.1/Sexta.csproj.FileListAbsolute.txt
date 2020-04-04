@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\Sexta\bin\Debug\netcoreapp3.1\Sexta.exe
+C:\Users\Pedro\Desktop\Sexta\bin\Debug\netcoreapp3.1\Sexta.deps.json
+C:\Users\Pedro\Desktop\Sexta\bin\Debug\netcoreapp3.1\Sexta.runtimeconfig.json
+C:\Users\Pedro\Desktop\Sexta\bin\Debug\netcoreapp3.1\Sexta.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Sexta\bin\Debug\netcoreapp3.1\Sexta.dll
+C:\Users\Pedro\Desktop\Sexta\bin\Debug\netcoreapp3.1\Sexta.pdb
+C:\Users\Pedro\Desktop\Sexta\obj\Debug\netcoreapp3.1\Sexta.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Sexta\obj\Debug\netcoreapp3.1\Sexta.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Sexta\obj\Debug\netcoreapp3.1\Sexta.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Sexta\obj\Debug\netcoreapp3.1\Sexta.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Sexta\obj\Debug\netcoreapp3.1\Sexta.dll
+C:\Users\Pedro\Desktop\Sexta\obj\Debug\netcoreapp3.1\Sexta.pdb
+C:\Users\Pedro\Desktop\Sexta\obj\Debug\netcoreapp3.1\Sexta.genruntimeconfig.cache
